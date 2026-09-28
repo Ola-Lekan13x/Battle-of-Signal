@@ -1,3 +1,5 @@
+# Battle of Signal V1
+
 MAX_HEALTH = 150
 HEAL_AMOUNT = 50
 class Player:
