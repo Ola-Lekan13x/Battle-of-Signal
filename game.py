@@ -1,6 +1,6 @@
 # Battle of Signal V1
 
-MAX_HEALTH = 150
+MAX_HEALTH = 100
 HEAL_AMOUNT = 50
 class Player:
     def __init__(self, name, score, health,):

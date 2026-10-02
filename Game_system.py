@@ -3,7 +3,7 @@ from game import Player, Enemy, MAX_HEALTH, HEAL_AMOUNT
 ROUND_RECOVERY = 30
 def start_game():
     round_number = 1
-    player1 = Player("David", 0, 150)
+    player1 = Player("David", 0, 100)
     player1.add_score(100)
     score_tracker = {
         "attack": 0,
